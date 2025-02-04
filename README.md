@@ -1,4 +1,3 @@
-# AZ-204
 ##  Como Fazer o Deploy de uma API na Nuvem
 
 Criação de um projeto no Visual Studio: Um novo projeto ASP.NET Core Web API é criado. O foco não é no código da API em si, mas sim na automatização do processo de implantação.
